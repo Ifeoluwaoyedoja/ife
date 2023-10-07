@@ -1,0 +1,28 @@
+.facebook_header{
+    color: blue;
+    font-size: 40px;
+}
+.facebook_card{
+    float: right;
+    margin-right: 20em;
+}
+.facebook_text{
+    float: left;
+    margin-left: 20em;
+}
+.main_website{
+    padding-top: 10em;
+}
+.Login{
+    background-color: blue;
+    color: white;
+    width: 12vw;
+}
+.create{
+    background-color: green;
+    color: white;
+    width: 12vw;
+}
+input{
+    width: 15em;
+}
